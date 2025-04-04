@@ -1,0 +1,20 @@
+Loja,Estado,Produto,Preço Unitário (R$),Quantidade Vendida,Receita (R$)
+Matriz RJ,Rio de Janeiro,Camisa,50.00,120,6000.00
+Matriz RJ,Rio de Janeiro,Tênis,150.00,45,6750.00
+Matriz RJ,Rio de Janeiro,Boné,30.00,200,6000.00
+Filial SP,São Paulo,Mochila,200.00,30,6000.00
+Filial SP,São Paulo,Boné,30.00,85,2550.00
+Filial SP,São Paulo,Cinto,80.00,40,3200.00
+Filial MG,Minas Gerais,Camisa Polo,70.00,60,4200.00
+Filial MG,Minas Gerais,Jaqueta,250.00,20,5000.00
+Filial MG,Minas Gerais,Casaco,300.00,15,4500.00
+Filial BA,Bahia,Sandália,40.00,90,3600.00
+Filial BA,Bahia,Relógio,300.00,15,4500.00
+Filial BA,Bahia,Óculos,120.00,50,6000.00
+Filial RS,Rio Grande do Sul,Luvas,35.00,70,2450.00
+Filial RS,Rio Grande do Sul,Gorro,25.00,100,2500.00
+Filial RS,Rio Grande do Sul,Cachecol,60.00,30,1800.00
+Filial CE,Ceará,Camiseta,45.00,150,6750.00
+Filial CE,Ceará,Chinelo,20.00,300,6000.00
+Filial CE,Ceará,Shorts,90.00,80,7200.00
+Filial CE,Ceará,Meia,25.00,70,1750.00
